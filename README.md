@@ -1,4 +1,6 @@
 # security-auditor IT安全审计工具
+[![CI](https://github.com/wzx11223344/security-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/wzx11223344/security-auditor/actions/workflows/ci.yml)
+
 
 ## 概述
 
